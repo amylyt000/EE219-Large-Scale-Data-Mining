@@ -1,4 +1,4 @@
-Project 2: Regression
+Project 4: Regression
 
 Teammates: Xiaopei Zhang - 004309991, Yutong Lu - 005027184
 Jianwei Zhang - 905036358, Hengyu Lou - 005035476
